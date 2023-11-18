@@ -1,3 +1,5 @@
+#!/bin/bash
+
 source ~/.profile
 
 path=$PWD
